@@ -8,5 +8,5 @@ import javax.swing.*;
  * Created by menuka on 3/24/17.
  */
 public class SimpleIcons {
-    public static final Icon FILE = IconLoader.getIcon("/com/simpleplugin/icons/simple-file-icon.png");
+    public static final Icon FILE = IconLoader.getIcon("/com/simpleplugin/icons/coin-icon.png");
 }
